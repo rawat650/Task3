@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../.gradle/caches/transforms-3/01d97ce83e49d673b80119298b1bec1c/transformed/core-1.3.2/res/layout/custom_dialog.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Lenovo/Downloads/MyApplication copy/MyApplication copy/app/src/main/res/layout/activity_fourth.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/MyApplication copy/MyApplication copy/app/src/main/res/layout/custom_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Downloads/MyApplication copy/MyApplication copy/app/src/main/res/layout/view.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30740393626991563" />
+        <entry key="app/src/main/res/layout/custom_dialog.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/view.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.24583333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
